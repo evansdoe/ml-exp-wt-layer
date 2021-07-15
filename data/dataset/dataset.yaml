@@ -15,6 +15,7 @@ materializations:
   - type: table
     target: layer
     table_name: "disaster_messages"
+
     
 name: "disaster_messages_categories"
 type: source
